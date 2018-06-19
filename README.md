@@ -10,7 +10,7 @@
   3.网页计算器
     http://www.fgm.cc/learn/lesson3/07.html
     
-  4.  完美拖拽
+ 4.  完美拖拽
   http://www.fgm.cc/learn/lesson6/01.html
   
   5.移动效果
